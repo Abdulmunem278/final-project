@@ -1,0 +1,67 @@
+body{
+    text-align: center;
+    font-family: Arial;
+    margin: 0px;
+}
+
+.navbar img{
+    width: 60px;
+}
+
+.navbar{
+    background-color: cadetblue;
+    padding: 20px;
+}
+
+.navbar h1{
+    color: white;
+}
+.navbar a{
+    color: white;
+    margin: 15px;
+    font-size: 20px;
+}
+
+.hero{
+    padding: 40px;
+}
+.hero img{
+    width: 450px;
+    border-radius: 20px;
+}
+
+.hero h1{
+    font-size: 35px;
+}
+
+button{
+    color: white;
+    background-color: green;
+    border: 0;
+    border-radius: 10px;
+    padding: 10px;
+}
+
+.cards{
+    padding: 30px;
+}
+
+.card{
+    background-color: gray;
+    width: 300px;
+    margin: 20px auto;
+    padding: 20px;
+    border: black solid 1px;
+    border-radius: 15px;
+}
+
+.card img{
+    width: 250px;
+    border-radius: 10px;
+}
+
+.footer{
+    background-color: cadetblue;
+    padding: 20px;
+    color: white;
+}
